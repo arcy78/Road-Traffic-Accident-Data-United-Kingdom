@@ -1,0 +1,9 @@
+streamlit
+duckdb
+plotly
+pandas
+geopandas
+matplotlib
+seaborn 
+folium 
+plotly
